@@ -6,7 +6,7 @@ main :: func(): void {
     pronouns: ["He", "Him"],
     age: ["19"],
     languages: ["Python", "HTML", "CSS", "JavaScript", "Java"],
-    future languages: ["C#", "C++"],
+    leraning: ["C#", "C++"],
     hobbies: ["Coding", "Listen to músic"],
     funFact: ["Coca-Cola was founded on January 29, 1892."],
   };
@@ -14,6 +14,7 @@ main :: func(): void {
   println "Pronouns: ${uni.pronouns}";
   println "Age: ${uni.age}";
   println "Languages I Know: ${uni.languages}";
+  println "Languages Im Learning: ${uni.learning}";
   println "My Hobbies: ${uni.hobbies}";
   println "Fun Fact: ${uni.funFact}";
 }
