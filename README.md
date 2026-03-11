@@ -4,7 +4,7 @@ module main
 main :: func(): void {
   ethan :: aboutMe = {
     pronouns: ["He", "Him"],
-    age: ["19"],
+    age: ["20"],
     languages: ["Python", "HTML", "CSS", "JavaScript", "Java"],
     leraning: ["C#", "C++"],
     hobbies: ["Coding", "Listen to músic"],
