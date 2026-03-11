@@ -6,7 +6,7 @@ main :: func(): void {
     pronouns: ["He", "Him"],
     age: ["20"],
     languages: ["Python", "HTML", "CSS", "JavaScript", "Java"],
-    leraning: ["C#", "C++"],
+    learning: ["C#", "C++"],
     hobbies: ["Coding", "Listen to músic"],
     funFact: ["Coca-Cola was founded on January 29, 1892."],
   };
