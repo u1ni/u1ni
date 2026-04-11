@@ -3,6 +3,8 @@ module main
 
 main :: func(): void {
   ethan :: aboutMe = {
+    name: ["Santiago Espósito"],
+    knownas: ["Hassen", "Uni"],
     pronouns: ["He", "Him"],
     age: ["20"],
     languages: ["Python", "HTML", "CSS", "JavaScript", "Java"],
@@ -11,6 +13,8 @@ main :: func(): void {
     funFact: ["Coca-Cola was founded on January 29, 1892."],
   };
 
+  println "Name: ${uni.name}";
+  println "Known As: ${uni.knownas}";
   println "Pronouns: ${uni.pronouns}";
   println "Age: ${uni.age}";
   println "Languages I Know: ${uni.languages}";
