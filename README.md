@@ -26,4 +26,4 @@ main :: func(): void {
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tow9hpuwxqmtztvmpgwfr7mrj&cover_image=true&theme=novatorem&show_offline=false&background_color=1f1f1f&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=tow9hpuwxqmtztvmpgwfr7mrj&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tow9hpuwxqmtztvmpgwfr7mrj&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
