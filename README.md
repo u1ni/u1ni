@@ -2,24 +2,26 @@
 module main
 
 main :: func(): void {
-  ethan :: aboutMe = {
+  uni :: aboutMe = {
     name: ["Santiago Espósito"],
-    knownas: ["Hassen", "Uni"],
+    knownAs: ["Hassen", "Uni"],
     pronouns: ["He", "Him"],
     age: ["20"],
-    languages: ["Python", "HTML", "CSS", "JavaScript", "Java"],
-    learning: ["C#", "C++"],
-    hobbies: ["Coding", "Listen to músic"],
-    funFact: ["Coca-Cola was founded on January 29, 1892."],
+    role: ["Informatics Engineering Student", "Full-Stack Developer"],
+    languages: ["Python", "Java", "C++", "C#", "JavaScript"],
+    frontend: ["HTML", "CSS", "Next.js", "UI/UX Design"],
+    backend: ["Backend Development", "Database Management"],
+    hobbies: ["Coding", "Listening to music"],
+    funFact: ["Coca-Cola was founded on January 29, 1892."]
   };
 
   println "Name: ${uni.name}";
-  println "Known As: ${uni.knownas}";
-  println "Pronouns: ${uni.pronouns}";
-  println "Age: ${uni.age}";
-  println "Languages I Know: ${uni.languages}";
-  println "Languages Im Learning: ${uni.learning}";
-  println "My Hobbies: ${uni.hobbies}";
+  println "Known As: ${uni.knownAs}";
+  println "Role: ${uni.role}";
+  println "Languages: ${uni.languages}";
+  println "Frontend: ${uni.frontend}";
+  println "Backend & DB: ${uni.backend}";
+  println "Hobbies: ${uni.hobbies}";
   println "Fun Fact: ${uni.funFact}";
 }
 ```
