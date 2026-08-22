@@ -12,6 +12,7 @@ main :: func(): void {
     frontend: ["HTML", "CSS", "Next.js", "UI/UX Design"],
     backend: ["Backend Development", "Database Management"],
     hobbies: ["Coding", "Listening to music"],
+    contact: ["Discord ID: 984618662159843388"],
     funFact: ["Coca-Cola was founded on January 29, 1892."]
   };
 
@@ -22,6 +23,7 @@ main :: func(): void {
   println "Frontend: ${uni.frontend}";
   println "Backend & DB: ${uni.backend}";
   println "Hobbies: ${uni.hobbies}";
+  println "Contact: ${uni.contact}";
   println "Fun Fact: ${uni.funFact}";
 }
 ```
