@@ -7,7 +7,7 @@ main :: func(): void {
     knownAs: ["Hassen", "Uni"],
     pronouns: ["He", "Him"],
     age: ["20"],
-    role: ["Informatics Engineering Student", "Full-Stack Developer"],
+    role: ["Computer Engineering Student", "Full-Stack Developer"],
     languages: ["Python", "Java", "C++", "C#", "JavaScript"],
     frontend: ["HTML", "CSS", "Next.js", "UI/UX Design"],
     backend: ["Backend Development", "Database Management"],
