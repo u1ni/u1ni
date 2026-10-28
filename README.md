@@ -13,7 +13,7 @@ main :: func(): void {
     backend: ["Backend Development", "Database Management"],
     hobbies: ["Coding", "Listening to music"],
     contact: ["Discord ID: 984618662159843388"],
-    funFact: ["Coca-Cola was founded on January 29, 1892."]
+    funFact: ["I like reverse engineering :P"]
   };
 
   println "Name: ${uni.name}";
